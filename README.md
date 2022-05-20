@@ -583,8 +583,9 @@ BGM 후보들을 고르고 선정
     - 최예린: ?
 <br><br>
 <img width="529" alt="KakaoTalk_20220516_120800150" src="https://user-images.githubusercontent.com/86939460/169190437-201bfb75-6942-4c1f-afe6-4d0dd04d651b.png">
-<img width="522" alt="KakaoTalk_20220516_120805072" src="https://user-images.githubusercontent.com/86939460/169190538-d154dc6f-1f26-44de-bb8d-c0b5461493c6.png">
 <img width="525" alt="KakaoTalk_20220516_120809954" src="https://user-images.githubusercontent.com/86939460/169190580-c9bb591d-e0c4-4274-9886-1101b314d980.png">
+<img width="522" alt="KakaoTalk_20220516_120805072" src="https://user-images.githubusercontent.com/86939460/169190538-d154dc6f-1f26-44de-bb8d-c0b5461493c6.png">
+
 
 #### 3. 결정사항<br>
 
